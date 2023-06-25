@@ -8,16 +8,10 @@
 # apk add curl
 ```
 
-## 下載
+## 安裝 v2ray
 
 ```
-$ curl -O https://raw.githubusercontent.com/v2fly/alpinelinux-install-v2ray/master/install-release.sh
-```
-
-## 使用
-
-```
-# ash install-release.sh
+$ curl -O https://raw.githubusercontent.com/benzBrake/alpinelinux-install-v2ray/master/install-release.sh | sh
 ```
 
 ## 管理指令
